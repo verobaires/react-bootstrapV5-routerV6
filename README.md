@@ -2,6 +2,7 @@
 
 INSTALACION VITE
 $ npm create vite@latest [nombre del proyecto]
+
 ![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/69024398-3561-4b48-a60b-104e64cd837f)
 
 ![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/67cba046-603e-4e49-9707-c0ce84e13a5a)
