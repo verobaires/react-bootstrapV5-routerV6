@@ -3,6 +3,13 @@
 INSTALACION VITE
 $ npm create vite@latest [nombre del proyecto]
 
+(si no se coloca el nombre del proyecto lo va a preguntar y se puede colocar un punto para que tome la carpeta en la cual esta)
+![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/4efb288b-7bdb-4421-836b-ed119d59c6f9)
+
+Dejar el nombre del package name como viene por default
+![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/a77d9f65-9563-4663-80aa-3cba783bbb1f)
+
+
 ![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/69024398-3561-4b48-a60b-104e64cd837f)
 
 ![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/67cba046-603e-4e49-9707-c0ce84e13a5a)
