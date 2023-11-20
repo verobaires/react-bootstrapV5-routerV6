@@ -1,13 +1,15 @@
 # MENU BOOTSTRAP REACT CON VITE
 
-##VISTA DESKTOP
-![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/94b6527e-4be3-4978-aeed-c8f4bc55e30a)
+**VISTA DESKTOP**![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/94b6527e-4be3-4978-aeed-c8f4bc55e30a)
 
-##VISTA MOBILE
+**VISTA MOBILE**  
+
 ![image](https://github.com/verobaires/react-bootstrapV5-routerV6/assets/34665102/5bab8de2-2510-4836-be4f-27dc48759805)
 
 
 
+    
+   
 INSTALACION VITE
 $ npm create vite@latest [nombre del proyecto]
 
